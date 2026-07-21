@@ -1,7 +1,7 @@
 // src/hello.ts
 
 // TypeScript — variabel dengan tipe yang jelas
-const nama: string = "Linda Angellina";
+// const nama: string = "Linda Angellina";
 const tahun: number = 2026;
 const sedangBelajar: boolean = true;
 
