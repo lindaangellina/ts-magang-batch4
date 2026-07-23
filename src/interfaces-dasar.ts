@@ -1,3 +1,4 @@
+export {};
 // src/interfaces-dasar.ts
 
 // SOAL 1

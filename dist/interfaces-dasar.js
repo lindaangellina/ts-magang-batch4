@@ -1,5 +1,5 @@
 "use strict";
-// src/interfaces-dasar.ts
+Object.defineProperty(exports, "__esModule", { value: true });
 const peserta1 = {
     id: 1,
     nama: "Linda Angellina",
